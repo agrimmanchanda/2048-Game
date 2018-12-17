@@ -2,6 +2,7 @@
 C++ Implementation for 2048 game (can be played using keyboard)
 
 To compile, enter in command line: g++ main.cpp -o main
+
 To run, enter in command line: ./main
 
 This Implementation has two options at the beginning: the user can enter a txt file to start the game in an initial configuration (for e.g. input.txt) which is read by the program.
